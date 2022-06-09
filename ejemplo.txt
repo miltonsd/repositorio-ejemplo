@@ -1,5 +1,3 @@
 texto de ejemplo
 
 hola como estas?
-
-Chau.
